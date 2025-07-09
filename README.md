@@ -1,6 +1,7 @@
 # remarkable_CIDR_list
 #A list of remarkable CIDR blocks
 
+139.144.52.241/32
 88.210.63.0/24
 3.67.7.128/25  
 92.255.85.0/24  
